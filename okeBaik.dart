@@ -1,3 +1,3 @@
 void main() {
-  print("Hidup Jokowi!");
+  print("Hidup Jokowi, sawit, indonesia merdeka!");
 }
