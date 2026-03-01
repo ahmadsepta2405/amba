@@ -1,3 +1,3 @@
-void main() {
-  print("Hidup Jokowi!");
+void main () {
+  print("oke baik");
 }
